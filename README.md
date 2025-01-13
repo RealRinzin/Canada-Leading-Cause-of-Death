@@ -1,10 +1,10 @@
+# Canada Leading Cause of Death Analysis
+
 Based on the available information, the repository "Canada-Leading-Cause-of-Death" focuses on analyzing the leading causes of death in Canada. The repository includes Jupyter Notebook files and CSV datasets related to death causes by gender and mental health.
 
+![Analytic Dashboard](https://github.com/user-attachments/assets/c4cc8319-02ca-494e-9032-b74e72343239)
+
 To enhance the repository's README file, consider including the following sections:
-
-**Project Title**
-
-# Canada Leading Cause of Death Analysis
 
 **Description**
 
